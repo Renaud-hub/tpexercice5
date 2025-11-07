@@ -1,1 +1,6 @@
+	# ignore le fichier 1 et 2
+	1.txt
+2.txt
+	#ignore tout les fichiers ayant pour extension .jpg
+	*.jpg 
 
